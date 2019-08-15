@@ -1,0 +1,7 @@
+// This will help with intellisense for VS Code and also with the globals in tests (shallow, mount, render)
+{
+  "compilerOptions": {
+    "target": "es6"
+  },
+  "include": ["src/**/*"]
+}

@@ -1,0 +1,6 @@
+serviceWorker.js
+scripts/*
+server/*
+config/*
+flow-typed/*
+src/stores/types/*

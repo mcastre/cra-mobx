@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "tests": 3,
+    "passes": 1,
+    "failures": 0,
+    "duration": 1018,
+    "start": "2019-08-15T20:03:44.482Z",
+    "end": "2019-08-15T20:03:45.500Z"
+  },
+  "failures": [],
+  "passes": [
+    {
+      "title": "UserStore tests – should make a call to verify the address",
+      "fullTitle": "UserStore tests",
+      "duration": 353,
+      "errorCount": 0
+    }
+  ],
+  "skipped": [
+    {
+      "title": "UserStore tests – should update the userData state",
+      "fullTitle": "UserStore tests",
+      "duration": 353,
+      "errorCount": 0
+    },
+    {
+      "title": "UserStore tests – should return the computed fullName",
+      "fullTitle": "UserStore tests",
+      "duration": 353,
+      "errorCount": 0
+    }
+  ]
+}
