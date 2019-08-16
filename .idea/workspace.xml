@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5677cce6-3aaa-44d4-8eff-f329e1ab2cc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/modules.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/version.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/.env.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/constants/deposit/gettingstarted/lifegreenchk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/constants/product.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/stylesheets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/users.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/services/auth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/services/delay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/services/fs-utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/services/response.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/temp/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/views/error.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/views/index.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/views/info.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/views/layout.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-report.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-report.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +133,7 @@
       <workItem from="1565897604555" duration="27000" />
       <workItem from="1565897642240" duration="2144000" />
       <workItem from="1565909261564" duration="256000" />
-      <workItem from="1565909542322" duration="3497000" />
+      <workItem from="1565909542322" duration="3625000" />
     </task>
     <servers />
   </component>
