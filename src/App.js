@@ -5,7 +5,7 @@ import { inject, observer } from 'mobx-react';
 const App = ({ isLoading, errorMessage, verifyAddress, setUserData }) => (
   <div>
     <h1>hello MobX</h1>
-    <input type='text' onChange={str => setUserData(str)} />
+    <input type='text' onChange={str => setUserData({ address1: str })} />
     <button type='button' onClick={() => verifyAddress()}>
       Submit
     </button>

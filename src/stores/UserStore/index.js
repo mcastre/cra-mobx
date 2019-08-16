@@ -22,7 +22,7 @@ export default class UserStore {
     // Just pretend this is calling USPS for address validation
     try {
       await api({
-        url: 'https://usps/whatever',
+        url: 'https://usps.com/whatever',
         method: 'POST',
         data: {
           street1: address1,
@@ -35,7 +35,7 @@ export default class UserStore {
       ui.setUI({ isLoading: false });
       navigate('/next-page');
     } catch (e) {
-      ui.setUI({ isLoading: false, errorMessage: e.message });
+      ui.setUI({ isLoading: false, errorMessage: 'Nope, try again bro' });
       console.log('Error on api call...', e.message);
     }
   };

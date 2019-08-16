@@ -2,68 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5677cce6-3aaa-44d4-8eff-f329e1ab2cc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/cra-mobx.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/paths.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/version.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack.config.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack.config.prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.env.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/constants/deposit/gettingstarted/lifegreenchk.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/constants/product.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/stylesheets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/tests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/services/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/services/delay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/services/fs-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/services/response.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/temp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/views/error.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/views/index.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/views/info.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/views/layout.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/ApiStore/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/UIStore/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/UIStore/models/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/UserStore/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/UserStore/models/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/UserStore/spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-report.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stores/UserStore/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/stores/UserStore/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stores/UserStore/spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/stores/UserStore/spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stores/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/stores/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-report.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-report.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +35,12 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="14" />
+    <option name="y" value="37" />
+    <option name="width" value="1412" />
+    <option name="height" value="849" />
+  </component>
   <component name="ProjectId" id="1PTFpTKRLFUPa1eHN70jNFWsxtd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,15 +52,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.UserStore tests.should make a call to verify the address">
+  <component name="RunManager" selected="Jest.UserStore tests">
     <configuration name="UserStore tests" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -167,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.UserStore tests.should make a call to verify the address" />
         <item itemvalue="Jest.UserStore tests" />
+        <item itemvalue="Jest.UserStore tests.should make a call to verify the address" />
         <item itemvalue="Jest.UserStore tests.should return the computed fullName" />
       </list>
     </recent_temporary>
@@ -190,6 +144,8 @@
       <workItem from="1565893137761" duration="3845000" />
       <workItem from="1565897604555" duration="27000" />
       <workItem from="1565897642240" duration="2144000" />
+      <workItem from="1565909261564" duration="256000" />
+      <workItem from="1565909542322" duration="2559000" />
     </task>
     <servers />
   </component>
@@ -204,6 +160,20 @@
             <State>
               <option name="COLUMN_ORDER" />
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>

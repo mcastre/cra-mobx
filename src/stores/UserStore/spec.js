@@ -21,7 +21,7 @@ describe('UserStore tests', () => {
     await user.verifyAddress();
     expect(api).toHaveBeenCalledTimes(1);
     expect(api).toHaveBeenCalledWith({
-      url: 'https://usps/whatever',
+      url: 'https://usps.com/whatever',
       method: 'POST',
       data: {
         street1: '123 Banana Hwy',

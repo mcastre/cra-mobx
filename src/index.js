@@ -1,7 +1,8 @@
 import '@babel/polyfill';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Provider } from 'mobx-react';
+import { Provider as MobXProvider } from 'mobx-react';
+import { Provider } from 'react-redux';
 import axios from 'axios';
 import { navigate } from '@reach/router';
 import MobxRootStore from './stores';
@@ -12,9 +13,12 @@ import './index.css';
 const mobxRootStore = new MobxRootStore({ api: axios, navigate });
 
 ReactDOM.render(
-  <Provider store={mobxRootStore}>
-    <App />
-  </Provider>,
+  <MobXProvider store={mobxRootStore}>
+    <Provider store={{}}>
+      <App />
+    </Provider>
+  </MobXProvider>,
   document.getElementById('root')
 );
+
 serviceWorker.unregister();

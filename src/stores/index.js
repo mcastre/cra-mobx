@@ -9,8 +9,8 @@ export default class RootStore {
   ui;
 
   constructor({ api, navigate }) {
-    this.api = api;
     this.navigate = navigate;
+    this.api = api;
     this.user = new UserStore(this);
     this.ui = new UIStore(this);
   }
