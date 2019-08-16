@@ -6,7 +6,7 @@
 
 const config = require('dotenv').config({ path: 'server/.env' });
 const app = require('../server');
-const debug = require('debug')('ROCO:server');
+const debug = require('debug');
 const http = require('http');
 
 /**
