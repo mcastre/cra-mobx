@@ -24,7 +24,7 @@
     "lodash-es": "^4.17.11",
     "mobx": "^4.11.0",
     "mobx-react": "^6.1.1",
-    "moment": "~2.24.0",
+    "moment": "~2.29.4",
     "prop-types": "~15.6.2",
     "query-string": "~5.1.1",
     "react": "~16.8.6",
